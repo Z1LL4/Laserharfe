@@ -7,7 +7,7 @@
 			"revision" : 8
 		}
 ,
-		"rect" : [ 44.0, 44.0, 767.0, 780.0 ],
+		"rect" : [ 44.0, 44.0, 1107.0, 960.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -61,7 +61,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5893.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 5732.5, 203.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -76,7 +75,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5802.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 5641.0, 203.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -91,7 +89,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5907.368164, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 5746.368164, 113.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -106,7 +103,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5818.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 5657.675293, 93.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -559,7 +555,6 @@
 					}
 ,
 					"patching_rect" : [ 5789.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 5628.5, 177.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -588,7 +583,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5927.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 5766.847656, 135.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -604,7 +598,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5837.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 5676.279297, 135.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -703,7 +696,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5671.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 5510.0, 216.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -718,7 +710,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5649.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 5488.0, 416.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -733,7 +724,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5747.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 5586.0, 384.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -749,7 +739,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5802.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 5641.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -765,7 +754,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5734.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 5573.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -781,7 +769,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5671.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 5510.0, 252.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -796,7 +783,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5746.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 5585.0, 466.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -853,7 +839,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5730.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 5569.0, 355.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -906,7 +891,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5730.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 5569.0, 327.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -921,7 +905,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5671.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 5510.0, 385.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -936,7 +919,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5670.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 5509.0, 466.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -951,7 +933,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5808.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 5647.0, 355.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -991,7 +972,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5391.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 5230.5, 203.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -1006,7 +986,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5300.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 5139.0, 203.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -1021,7 +1000,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5405.368164, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 5244.368164, 113.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -1036,7 +1014,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5316.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 5155.675293, 93.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -1489,7 +1466,6 @@
 					}
 ,
 					"patching_rect" : [ 5287.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 5126.5, 177.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -1518,7 +1494,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5425.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 5264.847656, 135.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -1534,7 +1509,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5335.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 5174.279297, 135.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -1633,7 +1607,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 5169.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 5008.0, 216.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -1648,7 +1621,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5147.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 4986.0, 416.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -1663,7 +1635,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5245.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 5084.0, 384.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -1679,7 +1650,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5300.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 5139.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -1695,7 +1665,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5232.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 5071.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -1711,7 +1680,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5169.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 5008.0, 252.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -1726,7 +1694,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5244.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 5083.0, 466.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -1783,7 +1750,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5228.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 5067.0, 355.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -1836,7 +1802,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5228.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 5067.0, 327.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -1851,7 +1816,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5169.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 5008.0, 385.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -1866,7 +1830,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 5168.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 5007.0, 466.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -1881,7 +1844,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5306.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 5145.0, 355.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -1921,7 +1883,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4899.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 4738.5, 203.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -1936,7 +1897,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4808.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 4647.0, 203.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -1951,7 +1911,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4913.368164, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 4752.368164, 113.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -1966,7 +1925,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4824.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 4663.675293, 93.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -2419,7 +2377,6 @@
 					}
 ,
 					"patching_rect" : [ 4795.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 4634.5, 177.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -2448,7 +2405,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4933.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 4772.847656, 135.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -2464,7 +2420,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4843.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 4682.279297, 135.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -2563,7 +2518,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4677.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 4516.0, 216.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -2578,7 +2532,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4655.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 4494.0, 416.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -2593,7 +2546,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4753.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 4592.0, 384.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -2609,7 +2561,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4808.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 4647.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -2625,7 +2576,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4740.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 4579.0, 252.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -2641,7 +2591,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4677.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 4516.0, 252.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -2656,7 +2605,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4752.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 4591.0, 466.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -2713,7 +2661,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4736.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 4575.0, 355.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -2766,7 +2713,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4736.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 4575.0, 327.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -2781,7 +2727,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4677.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 4516.0, 385.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -2796,7 +2741,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4676.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 4515.0, 466.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -2811,7 +2755,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4814.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 4653.0, 355.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -2826,7 +2769,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4380.21582, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 4219.21582, 203.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -2841,7 +2783,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4288.71582, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 4127.71582, 203.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -2856,7 +2797,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4394.084473, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 4233.084473, 113.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -2871,7 +2811,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4305.391113, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 4144.391113, 93.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -3324,7 +3263,6 @@
 					}
 ,
 					"patching_rect" : [ 4276.21582, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 4115.21582, 177.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -3353,7 +3291,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4414.563477, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 4253.563477, 135.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -3369,7 +3306,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4323.995117, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 4162.995117, 135.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -3468,7 +3404,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4157.71582, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 3996.716064, 216.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -3483,7 +3418,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4135.71582, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 3974.716064, 416.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -3498,7 +3432,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4233.71582, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 4072.716064, 384.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -3514,7 +3447,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4288.71582, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 4127.71582, 252.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -3530,7 +3462,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4220.71582, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 4059.716064, 252.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -3546,7 +3477,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4157.71582, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 3996.716064, 252.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -3561,7 +3491,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4232.71582, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 4071.716064, 466.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -3643,7 +3572,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4216.71582, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 4055.716064, 355.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -3696,7 +3624,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4216.71582, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 4055.716064, 327.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -3711,7 +3638,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4157.71582, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 3996.716064, 385.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -3726,7 +3652,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 4156.71582, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 3995.716064, 466.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -3741,7 +3666,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 4294.71582, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 4133.71582, 355.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -3781,7 +3705,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3858.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 3438.5, 219.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -3796,7 +3719,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3767.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 3347.0, 219.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -3811,7 +3733,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3872.368408, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 3452.368408, 129.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -3826,7 +3747,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3783.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 3363.675293, 109.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -3839,7 +3759,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 2,
-					"outlettype" : [ "", "int" ],
+					"outlettype" : [ "int", "" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
@@ -4279,7 +4199,6 @@
 					}
 ,
 					"patching_rect" : [ 3754.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 3334.5, 193.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -4308,7 +4227,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3892.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 3472.847656, 151.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -4324,7 +4242,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3802.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 3382.279297, 151.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -4423,7 +4340,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3636.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 3216.0, 232.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -4438,7 +4354,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3614.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 3194.0, 432.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -4453,7 +4368,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3712.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 3292.0, 400.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -4469,7 +4383,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3767.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 3347.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -4485,7 +4398,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3699.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 3279.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -4501,7 +4413,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3636.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 3216.0, 268.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -4516,7 +4427,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3711.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 3291.0, 482.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -4573,7 +4483,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3695.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 3275.0, 371.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -4626,7 +4535,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3695.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 3275.0, 343.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -4641,7 +4549,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3636.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 3216.0, 401.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -4656,7 +4563,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3635.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 3215.0, 482.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -4671,7 +4577,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3773.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 3353.0, 371.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -4711,7 +4616,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3356.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 2936.5, 219.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -4726,7 +4630,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3265.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 2845.0, 219.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -4741,7 +4644,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3370.368408, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 2950.368408, 129.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -4756,7 +4658,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3281.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 2861.675293, 109.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -4769,7 +4670,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 2,
-					"outlettype" : [ "", "int" ],
+					"outlettype" : [ "int", "" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
@@ -5209,7 +5110,6 @@
 					}
 ,
 					"patching_rect" : [ 3252.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 2832.5, 193.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -5238,7 +5138,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3390.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 2970.847656, 151.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -5254,7 +5153,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3300.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 2880.279297, 151.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -5353,7 +5251,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3134.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 2714.0, 232.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -5368,7 +5265,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3112.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 2692.0, 432.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -5383,7 +5279,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3210.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 2790.0, 400.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -5399,7 +5294,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3265.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 2845.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -5415,7 +5309,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3197.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 2777.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -5431,7 +5324,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3134.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 2714.0, 268.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -5446,7 +5338,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3209.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 2789.0, 482.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -5503,7 +5394,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3193.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 2773.0, 371.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -5556,7 +5446,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3193.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 2773.0, 343.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -5571,7 +5460,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3134.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 2714.0, 401.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -5586,7 +5474,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 3133.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 2713.0, 482.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -5601,7 +5488,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3271.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 2851.0, 371.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -5641,7 +5527,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2864.5, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 2444.5, 219.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -5656,7 +5541,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2773.0, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 2353.0, 219.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -5671,7 +5555,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2878.368408, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 2458.368408, 129.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -5686,7 +5569,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2789.675293, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 2369.675293, 109.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -5699,7 +5581,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 2,
-					"outlettype" : [ "", "int" ],
+					"outlettype" : [ "int", "" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
@@ -6139,7 +6021,6 @@
 					}
 ,
 					"patching_rect" : [ 2760.5, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 2340.5, 193.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -6168,7 +6049,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2898.847656, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 2478.847656, 151.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -6184,7 +6064,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2808.279297, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 2388.279297, 151.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -6283,7 +6162,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2642.0, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 2222.0, 232.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -6298,7 +6176,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2620.0, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 2200.0, 432.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -6313,7 +6190,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2718.0, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 2298.0, 400.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -6329,7 +6205,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2773.0, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 2353.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -6345,7 +6220,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2705.0, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 2285.0, 268.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -6361,7 +6235,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2642.0, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 2222.0, 268.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -6376,7 +6249,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2717.0, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 2297.0, 482.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -6433,7 +6305,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2701.0, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 2281.0, 371.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -6486,7 +6357,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2701.0, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 2281.0, 343.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -6501,7 +6371,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2642.0, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 2222.0, 401.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -6516,7 +6385,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2641.0, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 2221.0, 482.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -6531,7 +6399,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2779.0, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 2359.0, 371.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -6546,7 +6413,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2345.216064, 213.772034, 86.0, 20.0 ],
-					"presentation_rect" : [ 1925.216064, 219.772034, 0.0, 0.0 ],
 					"text" : "r Modulationin"
 				}
 
@@ -6561,7 +6427,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2253.716064, 213.772034, 79.0, 20.0 ],
-					"presentation_rect" : [ 1833.716064, 219.772034, 0.0, 0.0 ],
 					"text" : "r Harmonizin"
 				}
 
@@ -6576,7 +6441,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2359.084473, 123.544067, 89.0, 20.0 ],
-					"presentation_rect" : [ 1939.084351, 129.544067, 0.0, 0.0 ],
 					"text" : "r other random"
 				}
 
@@ -6591,7 +6455,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2270.391113, 103.544067, 140.0, 20.0 ],
-					"presentation_rect" : [ 1850.391113, 109.544067, 0.0, 0.0 ],
 					"text" : "r harmonizer/modulation"
 				}
 
@@ -6604,7 +6467,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 2,
-					"outlettype" : [ "", "int" ],
+					"outlettype" : [ "int", "" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
@@ -7044,7 +6907,6 @@
 					}
 ,
 					"patching_rect" : [ 2241.216064, 187.544067, 104.0, 20.0 ],
-					"presentation_rect" : [ 1821.216064, 193.544067, 0.0, 0.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -7073,7 +6935,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2379.563477, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 1959.563477, 151.544067, 0.0, 0.0 ],
 					"text" : "other random"
 				}
 
@@ -7089,7 +6950,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2288.995117, 145.544067, 65.0, 33.0 ],
-					"presentation_rect" : [ 1868.995239, 151.544067, 0.0, 0.0 ],
 					"text" : "Harmoniz/Modulator"
 				}
 
@@ -7188,7 +7048,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2122.716064, 226.772034, 34.0, 20.0 ],
-					"presentation_rect" : [ 1702.716064, 232.772034, 0.0, 0.0 ],
 					"text" : "mtof"
 				}
 
@@ -7203,7 +7062,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2100.716064, 426.0, 41.0, 20.0 ],
-					"presentation_rect" : [ 1680.716064, 432.0, 0.0, 0.0 ],
 					"text" : "gate~"
 				}
 
@@ -7218,7 +7076,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2198.716064, 394.0, 193.0, 20.0 ],
-					"presentation_rect" : [ 1778.716064, 400.0, 0.0, 0.0 ],
 					"text" : "= carrier freq + modulator's output"
 				}
 
@@ -7234,7 +7091,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2253.716064, 262.0, 71.0, 33.0 ],
-					"presentation_rect" : [ 1833.716064, 268.0, 0.0, 0.0 ],
 					"text" : "modulation depth"
 				}
 
@@ -7250,7 +7106,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2185.716064, 262.0, 65.0, 33.0 ],
-					"presentation_rect" : [ 1765.716064, 268.0, 0.0, 0.0 ],
 					"text" : "modulator freq"
 				}
 
@@ -7266,7 +7121,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2122.716064, 262.0, 46.0, 33.0 ],
-					"presentation_rect" : [ 1702.716064, 268.0, 0.0, 0.0 ],
 					"text" : "carrier freq"
 				}
 
@@ -7281,7 +7135,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2197.716064, 476.0, 45.0, 20.0 ],
-					"presentation_rect" : [ 1777.716064, 482.0, 0.0, 0.0 ],
 					"text" : "carrier"
 				}
 
@@ -7363,7 +7216,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2181.716064, 365.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 1761.716064, 371.0, 0.0, 0.0 ],
 					"text" : "*~"
 				}
 
@@ -7416,7 +7268,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2181.716064, 337.0, 51.0, 20.0 ],
-					"presentation_rect" : [ 1761.716064, 343.0, 0.0, 0.0 ],
 					"text" : "cycle~"
 				}
 
@@ -7431,7 +7282,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2122.716064, 395.0, 78.0, 20.0 ],
-					"presentation_rect" : [ 1702.716064, 401.0, 0.0, 0.0 ],
 					"text" : "+~"
 				}
 
@@ -7446,7 +7296,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 2121.716064, 476.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 1701.716064, 482.0, 0.0, 0.0 ],
 					"text" : "cycle~ 40."
 				}
 
@@ -7461,7 +7310,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2259.716064, 365.0, 65.0, 20.0 ],
-					"presentation_rect" : [ 1839.716064, 371.0, 0.0, 0.0 ],
 					"text" : "modulator"
 				}
 
@@ -7475,8 +7323,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 512.71582, 793.5, 55.0, 21.0 ],
-					"presentation_rect" : [ 84.0, 550.0, 0.0, 0.0 ],
+					"patching_rect" : [ 512.71582, 793.5, 48.0, 21.0 ],
 					"text" : "*~ 0.5"
 				}
 
@@ -7490,7 +7337,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 446.0, 793.5, 55.0, 21.0 ],
+					"patching_rect" : [ 446.0, 793.5, 48.0, 21.0 ],
 					"text" : "*~ 0.5"
 				}
 
